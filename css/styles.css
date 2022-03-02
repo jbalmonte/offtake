@@ -546,3 +546,13 @@ section#contact form#contactForm :-ms-input-placeholder {
     Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
     "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
+
+#offtake {
+  border: 1px solid #000;
+  padding: 0;
+}
+
+#shop-img {
+  border: 1px solid #000;
+  padding: 0;
+}

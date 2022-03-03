@@ -5,7 +5,7 @@
 export default [
     {
         name: 'Faith Angela Marco',
-        img: 'balmonte.png',
+        img: 'marco.jpg',
         role: 'General Manager',
         a: "Throughout the activity, I have learned that Adobe Photoshop is very powerful software especially when you know how to use it. The skills you acquire while using the software is very helpful in some cases and it is very rewarding as well. It is very pleasing when you finish a project or task in Adobe Photoshop especially if you are just a beginner and the project or outcome looks very nice.",
         b: "If you enjoy and are passionate about Adobe Photoshop, it may be a really interesting and enjoyable way of life. However, if you force yourself to like it, it may be alright at first, but you will regret it in the long run, and you will not have time to pursue the route you truly desire. That is why it is critical to have a clear idea of what you want to do with your life so that you do not wind up on a detour. Whatever happens, the most important thing is that you get to learn a lot of new things along the route and still get to arrive at your destination. That is why it is critical to have a clear idea of what you want to do with your life so that you do not wind up on a detour. Whatever happens, the most important thing is that you learn a lot of new things along the way while still arriving at your goal. Even if it takes a long time, it's better to be late than never.",
@@ -22,7 +22,7 @@ export default [
 
     {
         name: 'Jeno Kyle Recio',
-        img: 'balmonte.png',
+        img: 'recio.jpg',
         role: 'Developer',
         a: "Since I am assigned in IT shop task, there are a lot of things that I need to edit, from scratch to our mockup store (output). I've learned to utilize the Rectangular Marque Tool. For me, this tool is the most used tool that I used in editing our mockup store. I also learned to Inverse the selection to reverse the selected area and rasterize the layer to be able to edit it. Furthermore, I learned how to utilize the Color Balance and Hue and Saturation settings. It is fun playing with its colors and satisfying myself with it. In Addition, I learned to utilize the Gradient Tool for the shadows in our mockup store. In every assessment that the professor wants us to perform, there are a lot of things that I've learned. It also enhances and utilizes the knowledge that I gained. But I know it is still not enough, I still consider myself as a beginner in Adobe Photoshop.",
         b: "It is indeed that Adobe Photoshop is very useful nowadays. It has a lot of functions that can be used in different ways, from personal use to business industry use. The professor gave us four different tasks in a project. It consists of beautification, business logo, IT shop design, and system design. As an IT student, I may encounter these tasks in the future. I may be the one who will edit the picture of my customer; I may be the one who designs and creates the business logo for a company; I may be the one who designs a shop for my client; and/or I may be the one who designs a system. This subject made me realize the versatility of Adobe Photoshop and I'm happy that I once experienced these kinds of tasks.",
@@ -31,7 +31,7 @@ export default [
 
     {
         name: 'Ezekiel Patulot',
-        img: 'balmonte.png',
+        img: 'patulot.jpg',
         role: 'Editor',
         a: "Just like in the last activity, I created logo for our group. I learned that there are many things you can do in Photoshop that can help you in real life. It is important because you can earn a lot of money if you got a commission from a big company or any other brand. And you can also use it for your own business, which will save you a lot of money because you don't need to pay other people to make logo for your business. After the activity I have learned how to make a logo and also collaborate with your team to make it better.",
         b: "As I already stated above, having skills in photoshop can be very useful. You can become a freelance designer for logo, signs, etc. and earn a lot of money. Maybe you can make it a fulltime job, because it really pays a good amount of money. It will be helpful to you and especially to your family, and you can also help businesses as you create their main face.",
@@ -40,7 +40,7 @@ export default [
 
     {
         name: 'Archie Dela Paz',
-        img: 'balmonte.png',
+        img: 'dela_paz.png',
         role: 'Editor',
         a: "By using Adobe Photoshop, I've learned various of tools needed in order to make the image/photo better as I was assigned to do the beautification in my group. The first thing I did after putting an image, I zoomed in the photo to see the parts that I need to fix by using a healing brush tool I traced the parts of marks like pimples and freckles and after that to make the photo presentable I changed its skin tone to make it look better. First is by using the Quick Selection Tool you can easily trace the parts you want to change. It is not that easy though because I find it hard since I'm new on doing things like this but I made it.",
         b: "As we work together as a group that's the first thing that pops up in my mind, our cooperation, the way we share our ideas, the way we make it fair for everyone by means of voting for tasks, because as we get older some of these things will matter and will make sense like when we're already working in a company, we can easily feel at ease working with someone and share ideas with them. Also, this project with my groupmates made me feel more creative as I worked on my part in beautification team.",
@@ -49,7 +49,7 @@ export default [
 
     {
         name: 'Marc Abi Aquino',
-        img: 'balmonte.png',
+        img: 'aquino.jpg',
         role: 'Editor',
         a: "I learned how to use the various tools in Photoshop. Fill, reduce opacity, modify color, and delete an object from a prior image were all possible. I learned how to apply distort, perspective, and warp as well. By completing this exercise, I was able to have a better understanding of how layers work. It was challenging at first since I only knew the fundamentals, but it became easier as my skills increased. We were able to complete the project as a group due to everyone's excellent communication and coordination.",
         b: "Photoshop is fascinating to use since it essentially includes all of the tools you'll ever need, and you don't have to be a pro to use it. Adobe Photoshop is used to design and edit the majority of our deliverables. Because of the software's adaptability, we were able to add several editing tools. You may use it to make digital 'art' from scratch, retouch images, and construct architectural blueprints.",
@@ -59,7 +59,7 @@ export default [
 
     {
         name: 'Lemnuel Lumaban',
-        img: 'balmonte.png',
+        img: 'lumaban.png',
         role: 'Editor',
         a: "In this activity I experienced using it into a real-life application which focuses on the business, marketing side specifically. In this activity, I was assigned to design the user interface of our website which requires front-end developing skills. Using photoshop made it easier and efficient for it got all I need like texts, objects, etc. With that I learned how important photoshop in advertising is, making it more eye-catching and appealing in order to attract more customers. Being said photoshop has much to offer and as not an artistic person experience is needed in order to do more.",
         b: "Adobe Photoshop is an essential tool for customizing and editing photos to satisfy one's need. Access to this software are most beneficial to designers, web developers, graphic artists, photographers, and creative professionals. Photoshopping skills are very handy that it opens a lot of opportunity which I envy. Despite of not being artistic, I really want to learn it somehow because I know it would be useful in my career.",

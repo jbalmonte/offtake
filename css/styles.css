@@ -433,7 +433,7 @@ header.masthead .masthead-heading {
     max-width: 60vw;
   }
   .modal-img {
-    height: 350px;
+    height: 300px !important;
   }
 }
 @media (min-width: 992px) {
@@ -468,6 +468,11 @@ header.masthead .masthead-heading {
   #ui-img {
     width: 30% !important;
   }
+
+  .modal-img {
+    height: 300px !important;
+  }
+
   .documentation-img {
     width: 25% !important;
   }

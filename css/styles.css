@@ -58,6 +58,7 @@ p {
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
+  width: 100vw;
   background-color: #212529;
 }
 #mainNav .navbar-toggler {
@@ -131,6 +132,7 @@ p {
 }
 header.masthead {
   height: 100vh;
+  width: 100vw;
   padding-top: 10.5rem;
   padding-bottom: 6rem;
   text-align: center;
@@ -244,8 +246,8 @@ header.masthead .masthead-heading {
 
 .beautification-modal .modal-dialog {
   /* margin: 1rem; */
-  margin: 1rem auto;
-  max-width: 60vw;
+  margin: 1rem;
+  max-width: 90vw;
 }
 
 .beautification-modal .modal-content {
@@ -425,6 +427,14 @@ header.masthead .masthead-heading {
   #ui-img {
     width: 60% !important;
   }
+  .beautification-modal .modal-dialog {
+    /* margin: 1rem; */
+    margin: 1rem auto;
+    max-width: 60vw;
+  }
+  .modal-img {
+    height: 350px;
+  }
 }
 @media (min-width: 992px) {
   .timeline > li {
@@ -534,4 +544,8 @@ header.masthead .masthead-heading {
 
 .logo-img {
   width: 50%;
+}
+
+.modal-img {
+  height: 250px;
 }

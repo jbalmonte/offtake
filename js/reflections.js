@@ -74,6 +74,14 @@ export default [
         b: "In the modern world that we are living in today, editing an image is not a surprise anymore. This has become a part of life for everyone, especially those that are in the marketing and advertising industry. I can’t imagine how their products are to be published publicly with only having the raw images or videos they took originally without any alterations made. These will surely look unappealing and unattractive to people and they might not make sales anymore.<br>We can say that we almost rely our life in making our images look more aesthetic, which in this case the application has become our way of life. We can use this tool in different ways like applying filters in the image, making a product from scratch, and making clips. Without the application, you can still do these things using other applications, but Adobe Photoshop is the best application we can use which has all the tools we need to alter our images like professionals.",
         c: "In real life situations, I use Adobe Photoshop in, for example from our activity, removing pimples and scars. As a person who is living her life with pimples on her face, I find this application very useful in helping me remove my pimples and clear my face to look more neat and appealing. I was also among those people who get shy about showing their face and posting it to social media platforms with acnes visible on the face. So, I think that I will always use this tool in altering my face until my face is free from these annoying bumps and spots in reality."
     },
+    {
+        name: 'Emmanuel Joseph Acosta',
+        img: 'acosta.jpg',
+        role: 'Editor',
+        a: "Adobe photoshop is very flexible when it comes to designs. It made a huge help in creating our website layout by layering the photos and text. It also made the changing of backgrounds easier by layering another layer and covering the white background.",
+        b: "Adobe photoshop could help us in many other ways. Like in advertisement it could be used to make ads that could be used in marketing your products. It could also be used in creating layouts for your projects such as websites, application or even in buildings.",
+        c: "As I had mentioned in my last answer, photoshop could be used in many different ways. Like in advertisements that are used to print in tarpaulins. It could also be used in creating ground layouts for constructions and so much more."
+    },
 
     {
         name: 'Mark Angelo Dioquino',
